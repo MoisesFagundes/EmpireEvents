@@ -8378,27 +8378,35 @@ legend {
     max-width: 200px;
     height: 200px
 }
-.img-produto-mercado {
-    display: block;
-    max-width: 100% !important;
-	height: 235px !important;
-}
-.img-produto {
-    display: block !important;
-    max-width: 100% !important;
-    height: 546px !important;
-}
-.img-meus-produtos {
-    display: block;
-    max-width: 100%;
-    height: 100px !important;
-}
-.img-carrinho {
-		display: block;
-		max-width: 100px!important;
-		height: 100px!important;
-}
+@media (min-width: 1200px) {
+  .tamanho-img-produto-mercado {
+    width: 235px !important;
+  }
+  .img-produto-mercado {
+      display: block;
+      max-width: 100% !important;
+      height: 235px !important;
+  }
+  .img-produto {
+      display: block !important;
+      max-width: 100% !important;
+      height: 546px !important;
+  }
+  .img-meus-produtos {
+      display: block;
+      max-width: 100%;
+      height: 100px !important;
+  }
+  .img-carrinho {
+      display: block;
+      max-width: 100px!important;
+      height: 100px!important;
+  }
+} 
 @media (min-width: 992px) and (max-width: 1199px) {
+  .tamanho-img-produto-mercado {
+    width: 190px !important;
+  }
 	.img-produto-mercado {
 		display: block;
 		max-width: 100% !important;
@@ -8421,7 +8429,10 @@ legend {
 	}
 }
 @media (min-width: 768px) and (max-width: 991px) {
-    .img-produto-mercado {
+  .tamanho-img-produto-mercado {
+    width: 535px !important;
+  }
+  .img-produto-mercado {
 		display: block;
 		max-width: 100% !important;
 		height: 535px !important;
@@ -8443,7 +8454,7 @@ legend {
 	}
 }
 @media (min-width: 480px) and (max-width: 767px) {
-    .img-produto-mercado {
+  .img-produto-mercado {
 		display: block;
 		max-width: 100% !important;
 		height: 700px !important;
@@ -8467,7 +8478,7 @@ legend {
 @media (min-width: 321px) and (max-width: 479px) {
 	.img-produto-mercado {
 		display: block;
-		width: 360px !important;
+		width: 100% !important;
 		height: 360px !important;
 	}
 	.img-produto {
@@ -8487,10 +8498,10 @@ legend {
 	}
 }
 @media only screen and (max-width: 320px) {
-   .img-produto-mercado {
-        display: block;
-        max-width: 100%;
-	    height: 500px;
+  .img-produto-mercado {
+    display: block;
+    max-width: 100%;
+	  height: 500px;
 	}
 	.img-produto {
 		display: block !important;

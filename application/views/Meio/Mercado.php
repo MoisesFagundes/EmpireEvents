@@ -122,8 +122,47 @@
 										if(isset($pacotes) and $inicio < count($pacotes['npacote'])){
 											for($i = $inicio; $i < $fim; $i++){?>
 												<div class="single-item-list">
-													<div class="item-img">
-														<a href="<?= base_url('Pagina_de_Anuncio/'.$pacotes['npacote'][$i])?>"><img src="<?php echo base_url('FrondEnd/img/pacotes/'.$pacotes['nempresa'][$i].'/'.$pacotes['npacote'][$i].'/'.$pacotes['imagem'][$i]) ?>" alt="<?php echo substr($pacotes['imagem'][$i], 0, -4) ?>" class="img-produto-mercado"></a>
+													<div class="tamanho-img-produto-mercado">
+														<div id="<?= $pacotes['npacote'][$i] ?>" class="carousel slide" data-ride="carousel" data-interval="0">
+														<?php $imagens = $this->Mercado_model->buscar_imagens_do_pacote($pacotes['npacote'][$i]); ?>
+															<!-- Embaladora para slides -->
+															<div class="carousel-inner" role="listbox">
+																<?php
+																	$controle_ativo = 2;
+																	foreach($imagens->result_array() as $linha){  
+																		if($controle_ativo == 2){ ?>
+																			<div class="item active">
+																			<center><a href="<?= base_url('Pagina_de_Anuncio/'.$pacotes['npacote'][$i])?>"><img src="<?php echo base_url("FrondEnd/img/pacotes/".$pacotes['nempresa'][$i]."/".$pacotes['npacote'][$i]."/".$linha['imagem']) ?>" alt="<?php echo substr ($linha['imagem'], 0 ,-4) ?>" class="img-produto-mercado"></a></center>
+																			</div><?php
+																			$controle_ativo = 1;
+																		}else{ ?>
+																			<div class="item">
+																				<?php $formato = substr($linha['imagem'],-3);
+
+																						IF($formato == "jpg" or $formato == "png"){
+																							echo "<center><a href='".base_url('Pagina_de_Anuncio/'.$pacotes['npacote'][$i])."'><img src='".base_url("FrondEnd/img/pacotes/".$pacotes['nempresa'][$i]."/".$pacotes['npacote'][$i]."/".$linha['imagem'])."' alt='".substr($linha['imagem'], 0 ,-4)."' class='img-produto-mercado'></a></center>";
+																						}else{
+																							echo "<center><video width='640' height='480' controls >
+																										<source src='".base_url('FrondEnd/img/pacotes/'.$pacotes['nempresa'].'/'.$npacote.'/'.$linha['imagem'])."' type='video/".$formato."' >
+																								</video></center>";
+																						}
+																				
+																				?>	
+																			</div> <?php
+																		}
+																	}
+																?>					
+															</div>
+															<!-- Controles -->
+															<a class="left carousel-control" href="#<?= $pacotes['npacote'][$i] ?>" role="button" data-slide="prev">
+																<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+																<span class="sr-only">Previous</span>
+															</a>
+															<a class="right carousel-control" href="#<?= $pacotes['npacote'][$i] ?>" role="button" data-slide="next">
+																<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+																<span class="sr-only">Next</span>
+															</a>
+														</div>
 													</div>
 													<div class="item-content">
 														<div class="item-info">
@@ -167,13 +206,13 @@
 														</div>
 														<div class="item-profile mobile">
 															<div class="profile-rating-info">
-																<center><a href="#<?= $pacotes['npacote'][$i] ?>" aria-expanded="false" class="seta-pra-baixo collapsed" data-toggle="collapse" data-parent="#accordion"></a></center>
+																<center><a href="#item<?= $pacotes['npacote'][$i] ?>" aria-expanded="false" class="seta-pra-baixo collapsed" data-toggle="collapse" data-parent="#accordion"></a></center>
 															</div>
 														</div>
 														<div class="item-profile mobile">
 															<div class="profile-rating-info">
 																<div class="tab-content">
-																	<div id="<?= $pacotes['npacote'][$i] ?>" aria-expanded="false" role="tabpanel" class="panel-collapse collapse">
+																	<div id="item<?= $pacotes['npacote'][$i] ?>" aria-expanded="false" role="tabpanel" class="panel-collapse collapse">
 																	    <?php $itens = $this->Mercado_model->buscar_itens_do_pacote($pacotes['npacote'][$i]) ?>
 																		<table class="table">
 																			<thead class="thead-dark">
