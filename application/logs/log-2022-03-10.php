@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-10 08:52:55 --> 404 Page Not Found: Plugins/jQuery-File-Upload
+ERROR - 2022-03-10 10:12:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-10 10:36:50 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2022-03-10 10:36:51 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2022-03-10 10:36:51 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2022-03-10 10:36:51 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2022-03-10 10:36:51 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2022-03-10 10:36:52 --> 404 Page Not Found: News/wp-includes
+ERROR - 2022-03-10 10:36:52 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2022-03-10 10:36:52 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2022-03-10 10:36:53 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2022-03-10 10:36:53 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2022-03-10 10:36:53 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2022-03-10 10:36:53 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2022-03-10 10:36:54 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2022-03-10 10:36:54 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2022-03-10 10:36:54 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2022-03-10 10:36:54 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2022-03-10 11:29:03 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2022-03-10 11:29:04 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2022-03-10 11:29:04 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2022-03-10 11:29:04 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2022-03-10 11:29:05 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2022-03-10 11:29:05 --> 404 Page Not Found: News/wp-includes
+ERROR - 2022-03-10 11:29:06 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2022-03-10 11:29:06 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2022-03-10 11:29:06 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2022-03-10 11:29:07 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2022-03-10 11:29:07 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2022-03-10 11:29:07 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2022-03-10 11:29:08 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2022-03-10 11:29:08 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2022-03-10 11:29:09 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2022-03-10 11:29:09 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2022-03-10 21:55:27 --> 404 Page Not Found: Robotstxt/index

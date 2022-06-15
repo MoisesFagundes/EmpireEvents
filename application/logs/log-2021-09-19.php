@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-19 00:27:37 --> 404 Page Not Found: Img/mobile-logo.png
+ERROR - 2021-09-19 01:47:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-19 06:10:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-19 06:27:35 --> 404 Page Not Found: Wp-content/index
+ERROR - 2021-09-19 08:23:39 --> 404 Page Not Found: Wp-content/index
+ERROR - 2021-09-19 09:22:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-19 09:22:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-19 12:11:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-19 12:11:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-19 16:00:28 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-09-19 16:00:29 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-09-19 16:00:30 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-09-19 16:00:30 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-09-19 16:00:31 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-09-19 16:00:31 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-09-19 16:00:31 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-09-19 16:00:32 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-09-19 16:00:32 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-09-19 16:00:32 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-09-19 16:00:33 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-09-19 16:00:33 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-09-19 16:00:34 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-09-19 16:00:34 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-09-19 16:00:34 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-09-19 16:00:35 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-09-19 16:00:35 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-09-19 19:31:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-19 19:41:30 --> 404 Page Not Found: Frondend/js
+ERROR - 2021-09-19 21:46:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-19 23:26:45 --> 404 Page Not Found: Robotstxt/index

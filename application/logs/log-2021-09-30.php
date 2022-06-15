@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-30 03:53:05 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-09-30 03:53:05 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-09-30 03:53:06 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-09-30 03:53:06 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-09-30 03:53:06 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-09-30 03:53:06 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-09-30 03:53:06 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-09-30 03:53:07 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-09-30 03:53:07 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-09-30 03:53:07 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-09-30 03:53:07 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-09-30 03:53:08 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-09-30 03:53:08 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-09-30 03:53:08 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-09-30 03:53:08 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-09-30 03:53:09 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-09-30 10:37:07 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-09-30 10:37:10 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-09-30 10:37:11 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-09-30 10:37:11 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-09-30 10:37:12 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-09-30 10:37:13 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-09-30 10:37:13 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-09-30 10:37:14 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-09-30 10:37:14 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-09-30 10:37:15 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-09-30 10:37:15 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-09-30 10:37:16 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-09-30 10:37:16 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-09-30 19:11:35 --> 404 Page Not Found: Admin/index

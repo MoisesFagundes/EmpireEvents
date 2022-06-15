@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-10 00:01:33 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 00:05:08 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 00:34:43 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-12-10 00:34:59 --> 404 Page Not Found: Wp/index
+ERROR - 2020-12-10 00:35:13 --> 404 Page Not Found: Blog/index
+ERROR - 2020-12-10 00:35:35 --> 404 Page Not Found: New/index
+ERROR - 2020-12-10 00:35:56 --> 404 Page Not Found: Old/index
+ERROR - 2020-12-10 00:35:56 --> 404 Page Not Found: Backup/index
+ERROR - 2020-12-10 00:36:17 --> 404 Page Not Found: Oldsite/index
+ERROR - 2020-12-10 00:36:34 --> 404 Page Not Found: Back/index
+ERROR - 2020-12-10 00:36:57 --> 404 Page Not Found: 2017/index
+ERROR - 2020-12-10 00:37:14 --> 404 Page Not Found: 2018/index
+ERROR - 2020-12-10 00:37:30 --> 404 Page Not Found: Div/index
+ERROR - 2020-12-10 00:37:51 --> 404 Page Not Found: Temp/index
+ERROR - 2020-12-10 00:39:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-10 00:39:28 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 00:43:15 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 00:46:53 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 00:52:39 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 00:54:31 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 01:10:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-10 02:16:35 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 02:17:36 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 02:20:22 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 02:20:26 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 02:20:27 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 02:20:39 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 02:20:56 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 02:21:12 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 02:27:14 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 02:38:15 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-10 10:50:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-10 16:15:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-10 20:32:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-10 22:43:02 --> 404 Page Not Found: Mercados/0

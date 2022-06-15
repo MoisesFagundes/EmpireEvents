@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-09-04 00:49:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-09-04 03:22:21 --> 404 Page Not Found: Admin/index
+ERROR - 2020-09-04 09:31:53 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-09-04 09:32:40 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-09-04 09:32:41 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-09-04 09:32:41 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-09-04 09:32:42 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-09-04 09:32:42 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-09-04 09:32:43 --> 404 Page Not Found: 2015/wp-includes
+ERROR - 2020-09-04 09:32:43 --> 404 Page Not Found: 2016/wp-includes
+ERROR - 2020-09-04 09:32:44 --> 404 Page Not Found: 2017/wp-includes
+ERROR - 2020-09-04 09:32:44 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-09-04 09:32:45 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-09-04 09:32:45 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-09-04 09:32:46 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-09-04 09:32:47 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2020-09-04 09:32:47 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-09-04 09:32:48 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-09-04 09:32:48 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-09-04 09:32:49 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-09-04 10:49:08 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-09-04 10:49:09 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-09-04 10:49:09 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-09-04 10:49:09 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-09-04 10:49:10 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-09-04 10:49:10 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-09-04 16:25:24 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-09-04 20:22:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-09-04 20:31:09 --> 404 Page Not Found: Faviconico/index

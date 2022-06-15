@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-03-02 05:39:59 --> 404 Page Not Found: Wp-content/index
+ERROR - 2021-03-02 07:14:13 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2021-03-02 08:21:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-02 08:21:33 --> 404 Page Not Found: Apple-app-site-association/index
+ERROR - 2021-03-02 10:32:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-02 10:36:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-02 10:36:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-02 10:36:45 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2021-03-02 13:31:07 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-03-02 13:31:11 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-03-02 13:31:12 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-03-02 13:31:13 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-03-02 13:31:14 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-03-02 13:31:15 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-03-02 13:31:15 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-03-02 13:31:16 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-03-02 13:31:17 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-03-02 13:31:18 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-03-02 13:31:19 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-03-02 13:31:19 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-03-02 13:31:20 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-03-02 13:31:21 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-03-02 13:31:22 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-03-02 13:31:22 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-03-02 13:31:23 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-03-02 20:39:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-02 20:39:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-02 22:22:38 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-22 00:21:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-22 00:22:09 --> 404 Page Not Found: Apple-app-site-association/index
+ERROR - 2020-11-22 08:58:26 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-11-22 09:00:21 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-11-22 09:00:21 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-11-22 09:00:21 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2020-11-22 09:00:22 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-11-22 09:00:22 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-11-22 09:00:22 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-11-22 09:00:23 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-11-22 09:00:23 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-11-22 09:00:23 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-11-22 09:00:24 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-11-22 09:00:24 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-11-22 12:31:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-22 12:31:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-22 22:54:19 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-11-22 22:54:20 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-11-22 22:54:20 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-11-22 22:54:20 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-11-22 22:54:21 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-11-22 22:54:22 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-11-22 22:54:22 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-11-22 22:54:22 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2020-11-22 22:54:23 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-11-22 22:54:23 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-11-22 22:54:24 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-11-22 22:54:24 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-11-22 22:54:25 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-11-22 22:54:25 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-11-22 22:54:26 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-11-22 22:54:26 --> 404 Page Not Found: Sito/wp-includes

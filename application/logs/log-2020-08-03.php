@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-08-03 00:18:50 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2020-08-03 02:39:07 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-08-03 02:39:08 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-08-03 04:47:25 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-08-03 04:47:41 --> 404 Page Not Found: Wp/index
+ERROR - 2020-08-03 04:47:54 --> 404 Page Not Found: Blog/index
+ERROR - 2020-08-03 04:48:04 --> 404 Page Not Found: New/index
+ERROR - 2020-08-03 04:48:13 --> 404 Page Not Found: Old/index
+ERROR - 2020-08-03 04:48:24 --> 404 Page Not Found: Backup/index
+ERROR - 2020-08-03 04:48:32 --> 404 Page Not Found: Oldsite/index
+ERROR - 2020-08-03 04:48:44 --> 404 Page Not Found: Back/index
+ERROR - 2020-08-03 04:48:59 --> 404 Page Not Found: 2017/index
+ERROR - 2020-08-03 04:49:11 --> 404 Page Not Found: 2018/index
+ERROR - 2020-08-03 04:49:20 --> 404 Page Not Found: Div/index
+ERROR - 2020-08-03 04:49:35 --> 404 Page Not Found: Temp/index
+ERROR - 2020-08-03 07:08:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-03 07:08:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-03 17:07:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-03 18:17:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-08-03 18:57:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-08-03 21:14:16 --> 404 Page Not Found: Apple-touch-icon-120x120-precomposedpng/index
+ERROR - 2020-08-03 21:14:16 --> 404 Page Not Found: Apple-touch-icon-152x152-precomposedpng/index
+ERROR - 2020-08-03 21:14:16 --> 404 Page Not Found: Apple-touch-icon-76x76-precomposedpng/index
+ERROR - 2020-08-03 21:14:17 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2020-08-03 21:14:17 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2020-08-03 21:14:17 --> 404 Page Not Found: Apple-touch-icon-72x72-precomposedpng/index
+ERROR - 2020-08-03 21:14:17 --> 404 Page Not Found: Apple-touch-icon-57x57-precomposedpng/index
+ERROR - 2020-08-03 21:14:17 --> 404 Page Not Found: Apple-touch-icon-180x180-precomposedpng/index
+ERROR - 2020-08-03 21:14:17 --> 404 Page Not Found: Apple-touch-icon-144x144-precomposedpng/index
+ERROR - 2020-08-03 21:14:17 --> 404 Page Not Found: Apple-touch-icon-114x114-precomposedpng/index
+ERROR - 2020-08-03 21:14:17 --> 404 Page Not Found: Apple-touch-icon-176x176-precomposedpng/index
+ERROR - 2020-08-03 21:14:17 --> 404 Page Not Found: Faviconico/index

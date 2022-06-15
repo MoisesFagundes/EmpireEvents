@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-28 03:45:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-28 03:46:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-28 10:37:21 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-10-28 10:37:33 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-10-28 10:37:34 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-10-28 10:37:36 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-10-28 10:37:39 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-10-28 10:37:43 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-10-28 10:37:46 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-10-28 10:37:48 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-10-28 10:37:50 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-10-28 10:37:52 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-10-28 10:37:54 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-10-28 10:37:57 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-10-28 10:38:00 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2020-10-28 10:38:07 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-10-28 10:38:08 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-10-28 10:38:08 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-10-28 10:38:10 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-10-28 22:26:49 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-10-28 22:27:08 --> 404 Page Not Found: Wp/index
+ERROR - 2020-10-28 22:27:29 --> 404 Page Not Found: Blog/index
+ERROR - 2020-10-28 22:27:58 --> 404 Page Not Found: New/index
+ERROR - 2020-10-28 22:28:21 --> 404 Page Not Found: Old/index
+ERROR - 2020-10-28 22:29:08 --> 404 Page Not Found: Backup/index
+ERROR - 2020-10-28 22:29:33 --> 404 Page Not Found: Oldsite/index
+ERROR - 2020-10-28 22:29:47 --> 404 Page Not Found: Back/index
+ERROR - 2020-10-28 22:29:59 --> 404 Page Not Found: 2017/index
+ERROR - 2020-10-28 22:30:12 --> 404 Page Not Found: 2018/index
+ERROR - 2020-10-28 22:30:34 --> 404 Page Not Found: Div/index
+ERROR - 2020-10-28 22:30:46 --> 404 Page Not Found: Temp/index
+ERROR - 2020-10-28 23:00:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-28 23:30:44 --> 404 Page Not Found: Robotstxt/index

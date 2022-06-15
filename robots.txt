@@ -1,0 +1,8 @@
+# Robots.txt file for Empire Events
+# Created in year 2022
+
+User-agent: *
+ 
+Disallow: /Painel
+
+Sitemap: https://empireevents.com.br/sitemap.xml.gz

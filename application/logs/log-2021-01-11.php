@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-11 04:00:11 --> 404 Page Not Found: Mercados/0
+ERROR - 2021-01-11 04:21:57 --> 404 Page Not Found: Mercados/0
+ERROR - 2021-01-11 05:12:20 --> 404 Page Not Found: Apple-app-site-association/index
+ERROR - 2021-01-11 06:06:41 --> 404 Page Not Found: Misc/print.css
+ERROR - 2021-01-11 06:06:41 --> 404 Page Not Found: Misc/print.css
+ERROR - 2021-01-11 06:56:25 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:17:49 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:18:04 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:18:52 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:28:05 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:37:11 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:43:53 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:44:37 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:44:56 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:45:24 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:45:29 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:45:38 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:45:43 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:45:45 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 07:45:53 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 08:38:04 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 08:43:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-11 08:43:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-11 09:15:51 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 10:11:02 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 10:12:09 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 12:58:14 --> 404 Page Not Found: Themes/README.txt
+ERROR - 2021-01-11 12:58:14 --> 404 Page Not Found: Themes/README.txt
+ERROR - 2021-01-11 13:18:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-11 14:55:20 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 15:42:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-11 15:42:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-11 22:29:26 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 23:24:43 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-01-11 23:24:56 --> 404 Page Not Found: Mercado/1

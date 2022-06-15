@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-08-31 04:58:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-31 04:58:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-31 05:22:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-31 05:22:16 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2020-08-31 05:22:16 --> 404 Page Not Found: Blog/index
+ERROR - 2020-08-31 05:22:17 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-08-31 05:22:17 --> 404 Page Not Found: Wp/index
+ERROR - 2020-08-31 07:03:08 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-08-31 07:03:22 --> 404 Page Not Found: Wp/index
+ERROR - 2020-08-31 07:03:34 --> 404 Page Not Found: Blog/index
+ERROR - 2020-08-31 07:03:43 --> 404 Page Not Found: New/index
+ERROR - 2020-08-31 07:03:54 --> 404 Page Not Found: Old/index
+ERROR - 2020-08-31 07:04:07 --> 404 Page Not Found: Backup/index
+ERROR - 2020-08-31 07:04:23 --> 404 Page Not Found: Oldsite/index
+ERROR - 2020-08-31 07:04:44 --> 404 Page Not Found: Back/index
+ERROR - 2020-08-31 07:05:04 --> 404 Page Not Found: 2017/index
+ERROR - 2020-08-31 07:05:22 --> 404 Page Not Found: 2018/index
+ERROR - 2020-08-31 07:05:38 --> 404 Page Not Found: Div/index
+ERROR - 2020-08-31 07:06:03 --> 404 Page Not Found: Temp/index
+ERROR - 2020-08-31 07:24:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-31 07:26:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-31 19:29:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-31 19:29:18 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2020-08-31 19:29:18 --> 404 Page Not Found: Blog/index
+ERROR - 2020-08-31 19:29:19 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-08-31 19:29:19 --> 404 Page Not Found: Wp/index
+ERROR - 2020-08-31 21:36:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-08-31 22:10:32 --> 404 Page Not Found: Robotstxt/index

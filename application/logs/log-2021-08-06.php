@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-06 02:47:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-06 02:47:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-06 11:22:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-08-06 11:22:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-06 16:00:07 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-08-06 16:00:09 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-08-06 16:00:10 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-08-06 16:00:10 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-08-06 16:00:11 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-08-06 16:00:11 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-08-06 16:00:12 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-08-06 16:00:12 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-08-06 16:00:13 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-08-06 16:00:13 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-08-06 16:00:14 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-08-06 16:00:14 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-08-06 16:00:15 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-08-06 16:00:16 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-08-06 16:00:16 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-08-06 16:00:17 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-08-06 16:00:17 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-08-06 17:25:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-06 20:46:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-06 20:46:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-06 23:42:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-06 23:42:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-06 23:50:57 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2021-08-06 23:51:09 --> 404 Page Not Found: Sites/default
+ERROR - 2021-08-06 23:51:21 --> 404 Page Not Found: Admin/controller
+ERROR - 2021-08-06 23:51:37 --> 404 Page Not Found: Uploads/index
+ERROR - 2021-08-06 23:51:44 --> 404 Page Not Found: Images/index
+ERROR - 2021-08-06 23:51:54 --> 404 Page Not Found: Files/index

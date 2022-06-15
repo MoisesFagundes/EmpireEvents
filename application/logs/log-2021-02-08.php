@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-02-08 02:00:20 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-02-08 02:36:50 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-02-08 02:36:51 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-02-08 02:36:51 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-02-08 02:36:52 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-02-08 02:36:52 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-02-08 02:36:52 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-02-08 07:57:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-08 16:41:19 --> 404 Page Not Found: Como_Funciona/index
+ERROR - 2021-02-08 16:43:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-08 19:43:16 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-02-08 19:43:18 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-02-08 19:43:18 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-02-08 19:43:18 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-02-08 19:43:19 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-02-08 19:43:19 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-02-08 19:43:20 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-02-08 19:43:20 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-02-08 19:43:21 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-02-08 19:43:21 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-02-08 19:43:22 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-02-08 19:43:22 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-02-08 19:43:23 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-02-08 19:43:24 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-02-08 19:43:24 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-02-08 19:43:25 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-02-08 19:43:25 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-02-08 21:51:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-08 21:51:08 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2021-02-08 21:51:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-02-08 22:16:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-08 22:16:45 --> 404 Page Not Found: Robotstxt/index

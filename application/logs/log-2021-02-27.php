@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-02-27 07:09:17 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-02-27 07:10:26 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-02-27 07:10:26 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-02-27 07:10:27 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-02-27 07:10:28 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-02-27 07:10:28 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-02-27 07:10:29 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-02-27 07:10:30 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-02-27 07:10:30 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-02-27 07:10:31 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-02-27 07:10:32 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-02-27 07:10:33 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-02-27 07:10:33 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-02-27 07:10:34 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-02-27 07:10:34 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-02-27 07:10:35 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-02-27 07:10:35 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-02-27 10:23:22 --> 404 Page Not Found: Wp-content/index
+ERROR - 2021-02-27 11:26:06 --> 404 Page Not Found: Como_Funciona/index
+ERROR - 2021-02-27 13:19:38 --> 404 Page Not Found: Mercado/1
+ERROR - 2021-02-27 14:17:51 --> 404 Page Not Found: Svn/entries
+ERROR - 2021-02-27 14:17:51 --> 404 Page Not Found: Svn/prop-base
+ERROR - 2021-02-27 14:17:52 --> 404 Page Not Found: Svn/text-base
+ERROR - 2021-02-27 20:14:28 --> 404 Page Not Found: Indexphp/index
+ERROR - 2021-02-27 20:14:28 --> 404 Page Not Found: Indexphp/index
+ERROR - 2021-02-27 20:14:29 --> 404 Page Not Found: Git/config
+ERROR - 2021-02-27 23:02:18 --> 404 Page Not Found: Robotstxt/index

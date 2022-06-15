@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-02 10:33:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 10:58:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 10:58:34 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2020-12-02 10:58:34 --> 404 Page Not Found: Blog/index
+ERROR - 2020-12-02 10:58:35 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-12-02 10:58:35 --> 404 Page Not Found: Wp/index
+ERROR - 2020-12-02 11:18:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-02 12:07:17 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-02 12:25:34 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-02 12:26:48 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-02 13:14:47 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-02 13:22:56 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-02 13:29:51 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-02 13:31:52 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-02 13:50:06 --> 404 Page Not Found: Mercados/0
+ERROR - 2020-12-02 19:35:36 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-12-02 19:36:22 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-12-02 19:36:22 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-12-02 19:36:22 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-12-02 19:36:23 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-12-02 19:36:23 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-12-02 19:36:23 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-12-02 19:36:23 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-12-02 19:36:24 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-12-02 19:36:24 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-12-02 19:36:24 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2020-12-02 19:36:24 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-12-02 19:36:25 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-12-02 19:36:25 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-12-02 19:36:25 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-12-02 20:38:47 --> 404 Page Not Found: Sitemapxmlgz/index

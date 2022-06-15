@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-07 02:04:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 05:45:14 --> 404 Page Not Found: Wordpress/index
+ERROR - 2022-03-07 05:45:15 --> 404 Page Not Found: Wp/index
+ERROR - 2022-03-07 05:45:16 --> 404 Page Not Found: Bc/index
+ERROR - 2022-03-07 05:45:16 --> 404 Page Not Found: Bk/index
+ERROR - 2022-03-07 05:45:16 --> 404 Page Not Found: Backup/index
+ERROR - 2022-03-07 05:45:17 --> 404 Page Not Found: Old/index
+ERROR - 2022-03-07 05:45:17 --> 404 Page Not Found: New/index
+ERROR - 2022-03-07 05:45:18 --> 404 Page Not Found: Main/index
+ERROR - 2022-03-07 05:45:18 --> 404 Page Not Found: Home/index
+ERROR - 2022-03-07 08:30:27 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2022-03-07 08:30:28 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2022-03-07 08:30:28 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2022-03-07 08:30:29 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2022-03-07 08:30:29 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2022-03-07 08:30:30 --> 404 Page Not Found: News/wp-includes
+ERROR - 2022-03-07 08:30:31 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2022-03-07 08:30:31 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2022-03-07 08:30:32 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2022-03-07 08:30:32 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2022-03-07 08:30:33 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2022-03-07 08:30:33 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2022-03-07 08:30:34 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2022-03-07 08:30:35 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2022-03-07 08:30:35 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2022-03-07 08:30:36 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2022-03-07 17:37:43 --> 404 Page Not Found: Assets/plugins

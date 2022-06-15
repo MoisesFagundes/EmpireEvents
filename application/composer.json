@@ -1,0 +1,9 @@
+{
+    "require": {
+        "mpdf/mpdf": "^6.1",
+        "twbs/bootstrap": "^5.1",
+        "chillerlan/php-qrcode": "^4.3",
+        "ctodobom/api-inter": "dev-api2",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}

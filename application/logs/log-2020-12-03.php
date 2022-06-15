@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-03 00:11:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-03 10:49:08 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-12-03 10:49:18 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-12-03 10:49:20 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-12-03 10:49:25 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-12-03 10:49:35 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-12-03 10:49:39 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-12-03 10:49:42 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-12-03 10:50:14 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-12-03 10:50:16 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-12-03 10:50:16 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-12-03 10:50:17 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-12-03 10:50:18 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-12-03 10:50:18 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2020-12-03 10:50:19 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-12-03 10:50:20 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-12-03 10:50:20 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-12-03 10:50:21 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-12-03 13:52:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-03 20:35:06 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-12-03 20:36:09 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-12-03 20:36:10 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-12-03 20:36:10 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-12-03 20:36:10 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-12-03 20:36:10 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-12-03 20:36:10 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-12-03 20:36:11 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-12-03 20:36:11 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-12-03 20:36:11 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-12-03 20:36:11 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2020-12-03 20:36:12 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-12-03 20:36:12 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-12-03 20:36:12 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-12-03 20:36:12 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-12-03 23:58:06 --> 404 Page Not Found: Mercados/0

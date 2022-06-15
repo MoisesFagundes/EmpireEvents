@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-12 03:45:31 --> 404 Page Not Found: Public/assets
+ERROR - 2021-05-12 16:47:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-12 16:58:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-12 20:57:25 --> 404 Page Not Found: Git/config
+ERROR - 2021-05-12 20:57:26 --> 404 Page Not Found: Idx_config/index
+ERROR - 2021-05-12 20:57:26 --> 404 Page Not Found: Infophp/index
+ERROR - 2021-05-12 20:57:26 --> 404 Page Not Found: Configjson/index
+ERROR - 2021-05-12 20:57:27 --> 404 Page Not Found: V2/_catalog
+ERROR - 2021-05-12 20:57:27 --> 404 Page Not Found: Api/search
+ERROR - 2021-05-12 20:57:27 --> 404 Page Not Found: Telescope/requests
+ERROR - 2021-05-12 20:57:31 --> 404 Page Not Found: V2/_catalog
+ERROR - 2021-05-12 20:57:32 --> 404 Page Not Found: Api/search
+ERROR - 2021-05-12 20:57:33 --> 404 Page Not Found: Configjson/index
+ERROR - 2021-05-12 20:57:33 --> 404 Page Not Found: Idx_config/index
+ERROR - 2021-05-12 20:57:34 --> 404 Page Not Found: Telescope/requests
+ERROR - 2021-05-12 20:57:34 --> 404 Page Not Found: Infophp/index
+ERROR - 2021-05-12 20:57:35 --> 404 Page Not Found: Git/config
+ERROR - 2021-05-12 20:57:36 --> 404 Page Not Found: Api/search
+ERROR - 2021-05-12 20:57:36 --> 404 Page Not Found: Infophp/index
+ERROR - 2021-05-12 20:57:37 --> 404 Page Not Found: Configjson/index
+ERROR - 2021-05-12 20:57:37 --> 404 Page Not Found: Git/config
+ERROR - 2021-05-12 20:57:37 --> 404 Page Not Found: V2/_catalog
+ERROR - 2021-05-12 20:57:38 --> 404 Page Not Found: Idx_config/index
+ERROR - 2021-05-12 20:57:38 --> 404 Page Not Found: Configjson/index
+ERROR - 2021-05-12 20:57:38 --> 404 Page Not Found: Telescope/requests
+ERROR - 2021-05-12 20:57:38 --> 404 Page Not Found: V2/_catalog
+ERROR - 2021-05-12 20:57:38 --> 404 Page Not Found: Git/config
+ERROR - 2021-05-12 20:57:39 --> 404 Page Not Found: Api/search
+ERROR - 2021-05-12 20:57:39 --> 404 Page Not Found: Idx_config/index
+ERROR - 2021-05-12 20:57:39 --> 404 Page Not Found: Telescope/requests
+ERROR - 2021-05-12 20:57:39 --> 404 Page Not Found: Infophp/index

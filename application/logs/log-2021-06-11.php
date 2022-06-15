@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-11 12:37:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-11 17:00:22 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-06-11 17:00:23 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-06-11 17:00:24 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-06-11 17:00:24 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-06-11 17:00:24 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-06-11 17:00:25 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-06-11 17:00:25 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-06-11 17:00:25 --> 404 Page Not Found: 2015/wp-includes
+ERROR - 2021-06-11 17:00:25 --> 404 Page Not Found: 2016/wp-includes
+ERROR - 2021-06-11 17:00:26 --> 404 Page Not Found: 2017/wp-includes
+ERROR - 2021-06-11 17:00:26 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-06-11 17:00:27 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-06-11 17:00:27 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-06-11 17:00:27 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-06-11 17:00:28 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-06-11 17:00:28 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-06-11 17:00:28 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-06-11 17:00:28 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-06-11 17:00:29 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-06-11 20:57:16 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-06-11 20:57:17 --> 404 Page Not Found: Wp/index
+ERROR - 2021-06-11 20:57:18 --> 404 Page Not Found: Blog/index
+ERROR - 2021-06-11 20:57:19 --> 404 Page Not Found: New/index
+ERROR - 2021-06-11 20:57:20 --> 404 Page Not Found: Old/index
+ERROR - 2021-06-11 20:57:20 --> 404 Page Not Found: Backup/index
+ERROR - 2021-06-11 20:57:21 --> 404 Page Not Found: Oldsite/index
+ERROR - 2021-06-11 20:57:21 --> 404 Page Not Found: Back/index

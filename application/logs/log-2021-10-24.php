@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-24 04:17:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-24 04:32:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-24 04:41:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-24 04:56:13 --> 404 Page Not Found: Img/mobile-logo.png
+ERROR - 2021-10-24 04:56:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-24 07:22:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-24 07:22:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-24 15:48:21 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-10-24 15:48:22 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-10-24 15:48:23 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-10-24 15:48:23 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-10-24 15:48:24 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-10-24 15:48:24 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-10-24 15:48:25 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-10-24 15:48:25 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-10-24 15:48:25 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-10-24 15:48:26 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-10-24 15:48:26 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-10-24 15:48:27 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-10-24 15:48:27 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-10-24 15:48:28 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-10-24 15:48:28 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-10-24 15:48:28 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-10-24 17:21:44 --> 404 Page Not Found: Dup-installer/main.installer.php
+ERROR - 2021-10-24 17:22:47 --> 404 Page Not Found: Dup-installer/main.installer.php
+ERROR - 2021-10-24 22:57:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-24 22:57:12 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2021-10-24 22:57:12 --> 404 Page Not Found: Adstxt/index

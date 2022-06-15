@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-18 00:23:07 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2021-05-18 00:23:08 --> 404 Page Not Found: Plugins/system
+ERROR - 2021-05-18 00:23:09 --> 404 Page Not Found: Misc/ajax.js
+ERROR - 2021-05-18 00:23:09 --> 404 Page Not Found: Admin/view
+ERROR - 2021-05-18 00:23:10 --> 404 Page Not Found: Admin/includes
+ERROR - 2021-05-18 00:23:10 --> 404 Page Not Found: Images/editor
+ERROR - 2021-05-18 00:23:11 --> 404 Page Not Found: Js/header-rollup-554.js
+ERROR - 2021-05-18 00:23:11 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-05-18 00:23:12 --> 404 Page Not Found: Fckeditor/editor
+ERROR - 2021-05-18 00:42:23 --> 404 Page Not Found: Public/assets
+ERROR - 2021-05-18 00:42:23 --> 404 Page Not Found: Assets/global
+ERROR - 2021-05-18 00:42:23 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-05-18 00:42:23 --> 404 Page Not Found: Assets/plugins
+ERROR - 2021-05-18 00:42:24 --> 404 Page Not Found: Public/assets
+ERROR - 2021-05-18 04:34:36 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-05-18 07:05:52 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-05-18 07:05:52 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-05-18 07:05:52 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-05-18 07:05:52 --> 404 Page Not Found: Plugins/uploadify
+ERROR - 2021-05-18 07:05:52 --> 404 Page Not Found: Public/admin
+ERROR - 2021-05-18 14:49:58 --> 404 Page Not Found: Assets/elfinder
+ERROR - 2021-05-18 17:34:28 --> 404 Page Not Found: Frondend/js
+ERROR - 2021-05-18 17:34:29 --> 404 Page Not Found: Frondend/js
+ERROR - 2021-05-18 17:34:29 --> 404 Page Not Found: Frondend/js
+ERROR - 2021-05-18 17:34:32 --> 404 Page Not Found: Frondend/js
+ERROR - 2021-05-18 17:34:49 --> 404 Page Not Found: Frondend/js
+ERROR - 2021-05-18 17:43:58 --> 404 Page Not Found: Frondend/js
+ERROR - 2021-05-18 21:09:15 --> 404 Page Not Found: Frondend/js
+ERROR - 2021-05-18 22:47:48 --> 404 Page Not Found: Theme/assets
