@@ -39,9 +39,14 @@ class Teste extends CI_Controller
 		echo gettype($faturamento_do_mes['preco']);
 	}
 
-    public function session()
+    public function tmp()
 	{		
-	    
+	    $pdf = "/home2/empire47/public_html/tmp/boleto-inter-3XeIze.pdf";
+		
+		$pdf = explode('/', $pdf);
+        $pdf = 'tmp/'.$pdf[5];
+		
+		echo $pdf;
 	}	
 
 	public function pix()
