@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Favicon -->
-        <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url('FrondEnd/img/favicon_32x32_created_by_logaster.png') ?>">
+        <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url('FrondEnd/img/favicon.png') ?>">
 
         <!-- Normalize css --> 
         <link rel="stylesheet" href="<?php echo base_url('FrondEnd/css/normalize.css') ?>">

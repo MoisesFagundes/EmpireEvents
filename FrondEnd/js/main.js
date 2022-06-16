@@ -105,7 +105,7 @@
     /*-------------------------------------
      jQuery MeanMenu activation code
      --------------------------------------*/
-    $('nav#dropdown').meanmenu({siteLogo: "<a href='#' class='logo-mobile-menu'><img src='https://empireevents.com.br/FrondEnd/img/favicon_32x32_created_by_logaster.png' /></a>"});
+    $('nav#dropdown').meanmenu({siteLogo: "<a href='#' class='logo-mobile-menu'><img src='https://empireevents.com.br/FrondEnd/img/favicon.png' /></a>"});
 
     /*-------------------------------------
      Wow js Active

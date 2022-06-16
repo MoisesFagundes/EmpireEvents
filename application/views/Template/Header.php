@@ -4,7 +4,7 @@
                         <div class="row">                         
                             <div class="col-lg-2 col-md-2 col-sm-3 hidden-xs">
                                 <div class="logo-area">
-                                    <img class="img-logo" src="<?php echo base_url('FrondEnd/img/old-school-vintage-logo-sticker.png') ?>" alt="logo">
+                                    <img class="img-logo" src="<?php echo base_url('FrondEnd/img/logo_transparent.png') ?>" alt="logo">
                                 </div>
                             </div>
                             <?php 
