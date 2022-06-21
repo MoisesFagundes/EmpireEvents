@@ -346,10 +346,12 @@ class Mercado extends CI_Controller
 		//Fazer calculo do orçamento
 		$Preco = fazer_orcamento(participantes, $Pacotes['precopessoa'], duracao, $Pacotes['precohora'], $Pacotes['precofixo']);
 		
-		//Fazer o protocolo
+		/*Fazer o protocolo
 		$nprotocolo .= $this->session->npedido;
 		$nprotocolo .= $Pacotes['nempresa'];
-        $nprotocolo .= $npacote;	
+        $nprotocolo .= $npacote;*/
+		
+		$nprotocolo = gerar_protocolo();
 		
 		//Pegar dados para o array
 		$array = array (
