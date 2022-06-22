@@ -7891,9 +7891,12 @@ nav#desktop-nav li.has-child-menu:hover ul.thired-level {
 .cart-page-area .cart-page-bottom-right h3 span {
   float: right;
 }
-.cart-page-area .cart-page-bottom-right .proceed-button {
+.proceed-button {
   text-align: right;
   margin-top: 20px;
+}
+.proceed-button button {
+  margin-left: 5px;
 }
 .btn-apply-coupon {
   background: #F8B505;

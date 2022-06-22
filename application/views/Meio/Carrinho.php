@@ -60,12 +60,12 @@
                                     ?>									
                                     <h2>Total</h2>
                                     <h3>Total<span><?= formato_brasileiro($Total['preco']) ?></span></h3>
-                                    <div class="proceed-button">
-									    <?= $botoes ?>
-                                    </div>
-                                    <div id="input_adiar"></div>
                                 </div>
                             </div>
+                            <div class="proceed-button">
+                                <?= $botoes ?>
+                            </div>
+                            <div id="input_adiar"></div>
                         </div>
                     </div>
                 </div>

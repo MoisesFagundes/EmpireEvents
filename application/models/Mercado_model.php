@@ -298,5 +298,19 @@ class Mercado_model extends CI_Model
 		return $cliente;
 		
 	}
+
+	public function verificar_protocolo($nprotocolo)
+	{
+		$this->db->select('protocolo');
+		$this->db->from('carrinho');
+		$this->db->where('nprotocolo', $nprotocolo);
+		$resultado = $this->db->count_all_results();
+
+		if($resultado >= 1){
+			return TRUE;
+		}else{
+			return FALSE;
+		}
+	}
 	
  }

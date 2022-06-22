@@ -352,6 +352,20 @@ class Mercado extends CI_Controller
         $nprotocolo .= $npacote;*/
 		
 		$nprotocolo = gerar_protocolo();
+
+		$sair = "não";
+
+		while($sair == "não"){
+			$existe = $this->Mercado_model->verificar_protocolo($nprotocolo);
+
+            if($existe == TRUE){
+				$nprotocolo = gerar_protocolo();
+				$sair = "não";
+			}elseif($existe == FALSE){
+                $sair = "sim";
+			}
+
+		}
 		
 		//Pegar dados para o array
 		$array = array (
@@ -402,9 +416,7 @@ class Mercado extends CI_Controller
 			$total_de_cada_situacao = array_count_values($situacoes);			
 
             //Definir botões
-			if($total_de_situacoes == 0){
-				$dados['botoes'] = "<button disabled id='' name='cancelar_evento' type='submit' class='btn btn-gray btn-lg'>Cancelar evento</button><button disabled id='' name='adiar_evento' type='submit' class='btn btn-gray btn-lg'>Adiar evento</button><button disabled name='enviar_proposta' type='submit' class='btn btn-gray btn-lg'>Enviar proposta</button>";
-			}elseif($total_de_cada_situacao['-----'] >= 1){
+			if($total_de_cada_situacao['-----'] >= 1){
 				$dados['botoes'] = "<button disabled id='' name='cancelar_evento' type='submit' class='btn btn-gray btn-lg'>Cancelar evento</button><button disabled id='' name='adiar_evento' type='submit' class='btn btn-gray btn-lg'>Adiar evento</button><a href='".base_url('Mercado/notificacao')."'><button name='enviar_proposta' type='submit' class='btn btn-primary btn-lg'>Enviar proposta</button></a>";
 			}elseif($total_de_cada_situacao['Aceito'] >= 1){
 				$dados['botoes'] = "<button disabled id='' name='cancelar_evento' type='submit' class='btn btn-gray btn-lg'>Cancelar evento</button><button disabled id='' name='adiar_evento' type='submit' class='btn btn-gray btn-lg'>Adiar evento</button><a href='".base_url('Mercado/inserir_venda')."'><button name='ir_para_pagamento' type='submit' class='btn btn-primary btn-lg'>Ir para pagamento</button></a>";
@@ -425,6 +437,9 @@ class Mercado extends CI_Controller
 	    }else{
 			//Valor a ser pago no momento
 			$dados['Total'] = 0;
+            
+			//Definir botões
+			$dados['botoes'] = "<button disabled id='' name='cancelar_evento' type='submit' class='btn btn-gray btn-lg'>Cancelar evento</button><button disabled id='' name='adiar_evento' type='submit' class='btn btn-gray btn-lg'>Adiar evento</button><button disabled name='enviar_proposta' type='submit' class='btn btn-gray btn-lg'>Enviar proposta</button>";
 		}
 				
 		//Chamar view
