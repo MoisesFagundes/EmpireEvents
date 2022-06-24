@@ -14,13 +14,21 @@
 
 					$botao = "<a href=''><button disabled class='btn btn-gray btn-lg'>Atualizar</button></a>";
 				}else{
-                    $botao = "<a href='".base_url('Mercado/atualizar_briefing')."'><button class='btn btn-primary btn-lg'>Atualizar</button></a>";
+                    $botao = "<a href='".base_url('Mercado/atualizar_briefing')."'><button id='carregando' class='btn btn-primary btn-lg'>Atualizar</button></a>";
 				}
 			}else{
-				$botao = "<a href='".base_url('Briefing')."'><button class='btn btn-primary btn-lg'>Iniciar</button></a>";
+				$botao = "<a href='".base_url('Briefing')."'><button id='carregando' class='btn btn-primary btn-lg'>Iniciar</button></a>";
 			}
 			
 			?>
+			<!-- início do preloader -->
+			<div id="preloader">
+				<div class="inner">
+					<!-- HTML DA ANIMAÇÃO MUITO LOUCA DO SEU PRELOADER! -->
+					<img src="<?= base_url('FrondEnd/img/1493.gif') ?>" >
+				</div>
+			</div>
+			<!-- fim do preloader --> 
 			<div class="modal fade" id="modal-briefing" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
 				<div class="modal-dialog modal-lg" role="document">
 					<div class="modal-content">
@@ -161,3 +169,12 @@
 					</div>
 				</div>
 			</div>
+			<script>
+				$(document).ready(function (){ 
+					$('#carregando').click(function () {
+						$('#preloader .inner').fadeOut();
+						$('#preloader').delay(10).fadeOut('slow'); 
+						$('body').delay(10).css({'overflow': 'visible'});
+					});
+				});	
+			</script>
