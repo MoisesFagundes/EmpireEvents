@@ -46,9 +46,6 @@
 		
 		<!-- jquery-->  
         <script src="<?php echo base_url('FrondEnd/js/jquery-2.2.4.min.js') ?>" type="text/javascript"></script>
-
-        <!-- Cloud Flare 
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> -->
 		
 		<!-- Jquery Mask Plugin -->
         <script src="<?php echo base_url('FrondEnd/js/jquery.mask.min.js') ?>"></script>
