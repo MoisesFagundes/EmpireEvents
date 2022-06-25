@@ -67,6 +67,9 @@ class Mercado extends CI_Controller
 	
 	public function atualizar_briefing()
 	{			
+		//Pegar Numero do pedido na sessão
+		$npedido = $this->session->npedido;
+		
 		//Arrendondar hora
 		$horainicio = arredondar_time($this->input->post('horainicio'));
 		$horafim = arredondar_time($this->input->post('horafim'));

@@ -14,10 +14,14 @@
 
 					$botao = "<a href=''><button disabled class='btn btn-gray btn-lg'>Atualizar</button></a>";
 				}else{
-                    $botao = "<a href='".base_url('Mercado/atualizar_briefing')."'><button class='btn btn-primary btn-lg'>Atualizar</button></a>";
+                    $caminho = base_url('Mercado/atualizar_briefing');
+
+                    $botao = "<button class='btn btn-primary btn-lg'>Atualizar</button>";
 				}
 			}else{
-				$botao = "<a href='".base_url('Briefing')."'><button class='btn btn-primary btn-lg'>Iniciar</button></a>";
+                $caminho = base_url('Mercado/briefing');
+
+				$botao = "<button class='btn btn-primary btn-lg'>Iniciar</button>";
 			}
 			
 			?> 
@@ -34,7 +38,7 @@
 							<div class="registration-page-area bg-secondary">
 								<div class="registration-details-area inner-page-padding">
 								    <?= $alerta ?>
-									<form class="checkout-form-select2" method="POST" action="<?php echo base_url('Mercado/briefing') ?>">								
+									<form class="checkout-form-select2" method="POST" action="<?= $caminho ?>">								
 										<div class="row">
 											<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
 												<div class="form-group">
