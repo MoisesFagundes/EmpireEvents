@@ -384,6 +384,18 @@ class PainelControlls extends CI_Controller
 			//Enviar dados para itens   
 			$this->Painel_model->inserir_itens_do_pacote($array3);
 		}
+
+		//Inserir dados na tabela estatisticas dos pacotes
+		$array4 = array (
+			'npacote' => $npacote,
+			'views' => 0,
+			'cliques' => 0,
+			'vendas' => 0,
+			'criado' => date('Y-m-d H:i:s')
+		);
+
+		//Enviar dados das estatisticas
+		$this->Painel_model->inserir_estatisticas_dos_pacotes($array4);
 		
 		//Criar diretorio de imagens do pacote
 		$_UP['pacote'] = 'FrondEnd/img/pacotes/'.$nempresa.'/'.$npacote;

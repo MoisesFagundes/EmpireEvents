@@ -65,6 +65,25 @@ class Mercado_model extends CI_Model
         return $total_de_resultados;
 
 	}
+
+	public function buscar_estatisticas($npacote, $modo)
+	{
+		$this->db->select($modo);
+		$this->db->from('estatisticas_dos_pacotes');
+		$this->db->where('npacote', $npacote);
+		$estatiscas = $this->db->get()->row_array();
+
+		return $estatiscas;
+
+	}
+
+	public function atualizar_estatisticas($npacote, $modo, $valor)
+	{
+        $this->db->set($modo, $valor);
+		$this->db->where('npacote', $npacote);
+		$this->db->update('estatisticas_dos_pacotes');
+		
+	}
 	
 	public function buscar_pacotes($nivel, $categoria, $tipoevento, $cidade, $participantes, $palavra_chave)
 	{

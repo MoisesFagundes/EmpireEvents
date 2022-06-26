@@ -136,7 +136,24 @@ class Mercado extends CI_Controller
 				
 		redirect($link, 'refresh');
 			
-    }		
+    }
+	
+	public function contabilizar_estatisticas($npacote, $modo)
+	{
+		$pagina_atual = $this->session->pagina_atual;
+		$ultima_pagina = $this->session->pg_anterior;
+
+		if($pagina_atual  == $ultima_pagina){
+
+		}else{
+			$valor = $this->Mercado_model->buscar_estatisticas($npacote, $modo);
+
+			$valor = $valor[$modo] + 1;
+	
+			$this->Mercado_model->atualizar_estatisticas($npacote, $modo, $valor);
+		}
+
+	}
 
 	public function mercado()
 	{
@@ -253,6 +270,20 @@ class Mercado extends CI_Controller
 			$dados['link_inicio'] = 1;
 			$dados['link_final'] = 10;
 		}
+
+		//Definir página atual
+		$pagina_atual = base_url($this->input->server('REQUEST_URI'));
+		$this->session->set_flashdata('pagina_atual', $pagina_atual);
+
+		//Contabilizar estatiscas de impresões
+		if(isset($pacotes) and $dados['inicio'] < count($pacotes['npacote'])){
+			for($i = $dados['inicio']; $i < $dados['fim']; $i++){ 
+				$this->contabilizar_estatisticas($pacotes['npacote'][$i], "views");
+			}
+		}
+
+		//Definir página que será a anterior
+		$this->session->set_flashdata('pg_anterior', $pagina_atual);
 		
 		//Envelopar dados para view
 		$dados['pacotes'] = $pacotes;
@@ -268,54 +299,45 @@ class Mercado extends CI_Controller
 	{
 		//Pegar dados por GET
 		$dados['npacote'] = $this->uri->segment(2);
-				
+
+		//Definir página atual
+		$pagina_atual = base_url($this->input->server('REQUEST_URI'));
+		$this->session->set_flashdata('pagina_atual', $pagina_atual);
+
+		//Contabilizar estatiscas de cliques
+		$this->contabilizar_estatisticas($dados['npacote'], "cliques");
+
+		//Definir página que será a anterior
+		$this->session->set_flashdata('pg_anterior', $pagina_atual);
+
+		//Seleciona pacote		
+		$dados['pacotes'] = $this->Mercado_model->buscar_dados_do_pacote($dados['npacote']);
+								
+		//Seleciona imagens		
+		$dados['imagens'] = $this->Mercado_model->buscar_imagens_do_pacote($dados['npacote']);
+		
+		//Seleciona itens		
+		$dados['itens'] = $this->Mercado_model->buscar_itens_do_pacote($dados['npacote']);
+		
+		//Seleciona dados da empresa
+		$dados['empresa'] = $this->Mercado_model->buscar_dados_da_empresa($dados['npacote']);
+
+		//Definir dados para calculo do orçamento
 		if($this->session->npedido){
-     		//Seleciona pacote		
-			$dados['pacotes'] = $this->Mercado_model->buscar_dados_do_pacote($dados['npacote']);
-			
-			//Definir dados para calculo do orçamento
 			define('participantes', $this->session->participantes);
 		    define('duracao', $this->session->duracao);
 			
-			//Fazer calculo do orçamento
-			$dados['preco'] = fazer_orcamento(participantes, $dados['pacotes']['precopessoa'], duracao, $dados['pacotes']['precohora'], $dados['pacotes']['precofixo']);
-							
-			//Seleciona imagens		
-			$dados['imagens'] = $this->Mercado_model->buscar_imagens_do_pacote($dados['npacote']);
-			
-			//Seleciona itens		
-			$dados['itens'] = $this->Mercado_model->buscar_itens_do_pacote($dados['npacote']);
-			
-			//Seleciona dados da empresa
-			$dados['empresa'] = $this->Mercado_model->buscar_dados_da_empresa($dados['npacote']);
-			
-			//Setar alertar
-			$dados['alert'] = ' ';
-			
 		}else{
-			//Seleciona pacote		
-			$dados['pacotes'] = $this->Mercado_model->buscar_dados_do_pacote($dados['npacote']);;
-			
-			//Definir dados para calculo do orçamento
 			define('participantes', 50);
 			define('duracao', 4);
 			
-			//Fazer calculo do orçamento
-			$dados['preco'] = fazer_orcamento(participantes, $dados['pacotes']['precopessoa'], duracao, $dados['pacotes']['precohora'], $dados['pacotes']['precofixo']);
-								
-			//Seleciona imagens		
-			$dados['imagens'] = $this->Mercado_model->buscar_imagens_do_pacote($dados['npacote']);
-			
-			//Seleciona itens		
-			$dados['itens'] = $this->Mercado_model->buscar_itens_do_pacote($dados['npacote']);
-			
-			//Seleciona dados da empresa
-			$dados['empresa'] = $this->Mercado_model->buscar_dados_da_empresa($dados['npacote']);
-			
-			//Setar alertar
-			$dados['alert'] = 'alert';
-			
 		}
+
+		//Fazer calculo do orçamento
+		$dados['preco'] = fazer_orcamento(participantes, $dados['pacotes']['precopessoa'], duracao, $dados['pacotes']['precohora'], $dados['pacotes']['precofixo']);
+		
+		//Setar alertar
+		$dados['alert'] = '';
 		
 		$ultima_pagina = $this->input->server('HTTP_REFERER');
 		

@@ -180,6 +180,12 @@ class Painel_model extends CI_Model
 		$this->db->insert('itens', $array3);
 		
 	}
+
+	public function inserir_estatisticas_dos_pacotes($array4)
+	{
+		$this->db->insert('estatisticas_dos_pacotes', $array4);
+		
+	}
 	
 	public function buscar_dados_do_pacote($npacote)
 	{
