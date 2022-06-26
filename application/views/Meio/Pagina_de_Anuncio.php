@@ -56,7 +56,7 @@
                                                                     echo "<center><img src='".base_url('FrondEnd/img/pacotes/'.$pacotes['nempresa'].'/'.$npacote.'/'.$linha['imagem'])."' alt='".substr($linha['imagem'], 0 ,-4)."' class='img-produto'></center>";
                                                         		}else{
                                                                     echo "<center><video width='640' height='480' controls >
-                                                        			            <source src='".base_url('FrondEnd/img/pacotes/'.$pacotes['nempresa'].'/'.$npacote.'/'.$linha['imagem'])."' type='video/".$formato."' >
+                                                        			            <source src='".base_url('FrondEnd/img/pacotes/'.$pacotes['nempresa'].'/'.$npacote.'/'.$linha['imagem'])."' type='video/".$formato."' alt='".substr($linha['imagem'], 0 ,-4)."' class='img-produto'>
                                                         				  </video></center>";
                                                         		}
                                                         
@@ -88,7 +88,7 @@
                                     <div class="row">
                                         <div class="col-lg-12 col-md-12 col-sm-12">
                                             <ul class="product-details-title">
-                                                <li><a>Itens do Pacote</a></li>
+                                                <li><h2>Itens do pacote <span class="label label-danger">Recomendado</span></h2></li>
                                             </ul>
                                         </div>
                                         <div class="col-lg-12 col-md-12 col-sm-12">

@@ -143,7 +143,7 @@
 																							echo "<center><a href='".base_url('Pagina_de_Anuncio/'.$pacotes['npacote'][$i])."'><img src='".base_url("FrondEnd/img/pacotes/".$pacotes['nempresa'][$i]."/".$pacotes['npacote'][$i]."/".$linha['imagem'])."' alt='".substr($linha['imagem'], 0 ,-4)."' class='img-produto-mercado'></a></center>";
 																						}else{
 																							echo "<center><video width='640' height='480' controls >
-																										<source src='".base_url('FrondEnd/img/pacotes/'.$pacotes['nempresa'].'/'.$npacote.'/'.$linha['imagem'])."' type='video/".$formato."' >
+																										<source src='".base_url('FrondEnd/img/pacotes/'.$pacotes['nempresa'].'/'.$npacote.'/'.$linha['imagem'])."' type='video/".$formato."' alt='".substr($linha['imagem'], 0 ,-4)."' class='img-produto'>
 																								</video></center>";
 																						}
 																				
