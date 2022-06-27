@@ -11,7 +11,7 @@
 														<ul>
 															<div class="layout-switcher">
 																<ul>
-																	<li><a href="#Criar_Pacote" data-toggle="tab"><i class="fa fa-plus" aria-hidden="true"></i></a>
+																	<li <?php echo $active == 7 ? 'class=active' : ""?> value="7"><a href="#Criar_Pacote" data-toggle="tab"><i class="fa fa-plus" aria-hidden="true"></i></a>
 																</ul>
 															</div>
 														</ul>

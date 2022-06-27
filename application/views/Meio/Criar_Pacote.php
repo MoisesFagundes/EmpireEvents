@@ -8,7 +8,7 @@
 													<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">                                          
 														<div class="form-group">
 															<label for="nomepacote" class="control-label">Título<span class="obrigatorio"> *</span></label>
-															<input name="nomepacote" type="text" class="form-control" value= "<?php echo set_value('nomepacote'); ?>" maxlength="40" REQUIRED>
+															<input name="nomepacote" type="text" class="form-control" value= "<?php echo set_value('nomepacote'); ?>" maxlength="25" REQUIRED>
 														</div>
 													</div>
 												</div>

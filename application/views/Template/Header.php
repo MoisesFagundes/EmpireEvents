@@ -50,12 +50,12 @@
 										<div class='mobile-menu'>
 											<nav id='dropdown'>
 												<ul class='profile-title'>
-													<li value='1'><a href='#Pedidos' data-toggle='tab' aria-expanded='false'><i class='fa fa-user' aria-hidden='true'></i> Pedidos</a></li>
-													<li><a href='#Agenda' data-toggle='tab' aria-expanded='false'><i class='fa fa-calendar' aria-hidden='true'></i> Agenda</a></li>
-													<li><a href='#Pagamentos' data-toggle='tab' aria-expanded='false'><i class='fa fa-usd' aria-hidden='true'></i> Pagamentos</a></li>
-													<li><a href='#Meus_Pacotes' data-toggle='tab' aria-expanded='false'><i class='fa fa-shopping-basket' aria-hidden='true'></i> Meus pacotes</a></li>
-													<li><a href='#Minhas_Estatisticas' data-toggle='tab' aria-expanded='false'><i class='fa fa-bar-chart' aria-hidden='true'></i> Minhas estatísticas</a></li>
-													<li><a href='#Configurações' data-toggle='tab' aria-expanded='false'><i class='fa fa-cog' aria-hidden='true'></i> Configurações</a></li>
+													<li class='".($active == 1 ? 'active' : '')."' value='1'><a href='#Pedidos' data-toggle='tab' aria-expanded='false'><i class='fa fa-user' aria-hidden='true'></i> Pedidos</a></li>
+													<li class='".($active == 2 ? 'active' : '')."' value='2'><a href='#Agenda' data-toggle='tab' aria-expanded='false'><i class='fa fa-calendar' aria-hidden='true'></i> Agenda</a></li>
+													<li class='".($active == 3 ? 'active' : '')."' value='3'><a href='#Pagamentos' data-toggle='tab' aria-expanded='false'><i class='fa fa-usd' aria-hidden='true'></i> Pagamentos</a></li>
+													<li class='".($active == 4 ? 'active' : '')."' value='4'><a href='#Meus_Pacotes' data-toggle='tab' aria-expanded='false'><i class='fa fa-shopping-basket' aria-hidden='true'></i> Meus pacotes</a></li>
+													<li class='".($active == 5 ? 'active' : '')."' value='5'><a href='#Minhas_Estatisticas' data-toggle='tab' aria-expanded='false'><i class='fa fa-bar-chart' aria-hidden='true'></i> Minhas estatísticas</a></li>
+													<li class='".($active == 6 ? 'active' : '')."' value='6'><a href='#Configurações' data-toggle='tab' aria-expanded='false'><i class='fa fa-cog' aria-hidden='true'></i> Configurações</a></li>
 												</ul>
 											</nav>
 										</div>           

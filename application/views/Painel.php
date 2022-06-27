@@ -48,21 +48,6 @@
 							</ul>
 						</div>
 					</div>					
-					<script>
-					$( "li" ).click(function() {
-						//Pegar variável check-point
-						var checkpoint = $(this).val();
-					    
-						//Enviar variável check-point por Ajax.
-						$.ajax({
-						  type: "POST" ,
-						  url: "<?= base_url('PainelControlls/checkpoint') ?>",
-						  data: {'checkpoint': checkpoint},
-						  dataType: 'html',
-						});
-						
-					});					
-					</script>
 					<div class="tab-content">
 					    <div class="tab-pane fade <?php echo $active == 1 ? 'active in' : ""?>" id="Pedidos">
 						    <?php $this->load->view('Meio/Pedidos') ?>
@@ -76,7 +61,7 @@
 						<div class="tab-pane fade <?php echo $active == 4 ? 'active in' : ""?>" id="Meus_Pacotes">
 						    <?php $this->load->view('Meio/Meus_Pacotes') ?>
 						</div>
-						<div class="tab-pane fade" id="Criar_Pacote">
+						<div class="tab-pane fade <?php echo $active == 7 ? 'active in' : ""?>" id="Criar_Pacote">
 						    <?php $this->load->view('Meio/Criar_Pacote') ?>
 						</div>
 						<div class="tab-pane fade <?php echo $active == 5 ? 'active in' : ""?>" id="Minhas_Estatisticas">
@@ -89,7 +74,22 @@
                 </div>
             </div>
 			<center><a class="feedback-mobile mobile" href="mailto:feedback@empireevents.com.br?subject=Tenho%20uma%20ideia%20de%20melhoria:"><i class="fa fa-comment" aria-hidden="true"></i> Ajude-nos a melhorar nossa plataforma!</a></center>
-		</div>	
+		</div>
+		<script>
+			$("li").click(function() {
+				//Pegar variável check-point
+				var checkpoint = $(this).val();
+				
+				//Enviar variável check-point por Ajax.
+				$.ajax({
+				type: "POST" ,
+				url: "<?= base_url('PainelControlls/checkpoint') ?>",
+				data: {'checkpoint': checkpoint},
+				dataType: 'html',
+				});
+				
+			});
+		</script>	
 		<footer>
 			<?php $this->load->view('Template/Footer') ?>
 		</footer>

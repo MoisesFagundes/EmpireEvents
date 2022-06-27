@@ -435,6 +435,7 @@ class PainelControlls extends CI_Controller
 		}*/
 					
 		//Redirecionar para meus produtos
+		$this->session->set_userdata('active', '4');
 		redirect('Painel', 'refresh');
 		
 	}
